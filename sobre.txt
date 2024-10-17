@@ -1,0 +1,13 @@
+O Gerenciador de Tarefas em Kivy é uma aplicação intuitiva que visa facilitar a organização pessoal e a produtividade. Em um mundo onde o tempo e a eficiência são cruciais, a capacidade de gerenciar tarefas de forma eficaz pode fazer toda a diferença. Este aplicativo foi desenvolvido para ajudar usuários a:
+
+1. Organizar a Rotina: O gerenciador permite que você registre e classifique suas tarefas diárias, ajudando a manter uma visão clara das atividades pendentes e evitando esquecimentos. Ao priorizar suas tarefas (Alta, Média e Baixa), você pode focar no que realmente importa, garantindo que os prazos mais críticos sejam atendidos.
+
+2. Aumentar a Produtividade: A visualização das tarefas em uma lista facilita o acompanhamento do progresso, permitindo que você se concentre em completar uma tarefa de cada vez. Essa abordagem pode ajudar a reduzir a sobrecarga mental e a procrastinação.
+
+3. Flexibilidade e Acessibilidade: O uso do Kivy permite que a aplicação seja executada em diferentes dispositivos, incluindo desktops e dispositivos móveis, tornando-a acessível em qualquer lugar. Isso é especialmente útil para profissionais que precisam gerenciar tarefas em movimento.
+
+4. Simplicidade e Usabilidade: A interface do usuário é simples e fácil de usar, tornando-a acessível para pessoas de todas as idades e níveis de habilidade tecnológica. O aplicativo é ideal para estudantes, profissionais e qualquer pessoa que deseje aprimorar sua capacidade de gerenciamento de tarefas.
+
+5. Persistência de Dados: As tarefas são salvas em um arquivo JSON, garantindo que você não perca o progresso ao fechar o aplicativo. Isso permite que você retome suas atividades de onde parou, sem a necessidade de relembrar ou reescrever tarefas.
+
+Com o Gerenciador de Tarefas em Kivy, você não apenas melhora sua eficiência diária, mas também cria um hábito positivo de organização que pode impactar positivamente diversas áreas da sua vida pessoal e profissional.
